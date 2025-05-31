@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">IIIT Dharwad QR Scanner</string>
+
+    <!-- Permission Strings -->
+    <string name="camera_permission_required">Camera permission is required to scan QR codes</string>
+    <string name="grant_permission">Grant Permission</string>
+
+    <!-- Scanner Screen -->
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="scanning_qr_code">Scanning QR Code...</string>
+    <string name="qr_scan_instruction">Place the QR code inside the frame</string>
+    <string name="check_in">Check In</string>
+    <string name="check_out">Check Out</string>
+    <string name="mode_check_in">Mode: Check In</string>
+    <string name="mode_check_out">Mode: Check Out</string>
+    <string name="switch_mode">Switch Mode</string>
+
+    <!-- Student Details Screen -->
+    <string name="student_details">Student Details</string>
+    <string name="student_name">Student Name: %1$s</string>
+    <string name="registration_number">Registration Number: %1$s</string>
+    <string name="confirm_action">Confirm %1$s</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- History Screen -->
+    <string name="history">History</string>
+    <string name="search_hint">Search by name or registration number</string>
+    <string name="total_records">Total Records: %1$d</string>
+    <string name="check_ins">Check Ins: %1$d</string>
+    <string name="check_outs">Check Outs: %1$d</string>
+    <string name="no_records_found">No records found</string>
+    <string name="clear_history">Clear History</string>
+
+    <!-- Navigation -->
+    <string name="nav_scanner">Scanner</string>
+    <string name="nav_history">History</string>
+
+    <!-- Status Messages -->
+    <string name="success_check_in">Successfully checked in %1$s</string>
+    <string name="success_check_out">Successfully checked out %1$s</string>
+    <string name="error_invalid_qr">Invalid QR code format</string>
+    <string name="error_scanning">Error scanning QR code</string>
+    <string name="error_database">Database error</string>
+</resources>
